@@ -1,24 +1,19 @@
 {
-  "name": "typescript",
+  "name": "understanding-typescript",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Understanding TypeScript Course Setup",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "lite-server"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/AsifIqbal95/typescript.git"
-  },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "typescript",
+    "course"
+  ],
+  "author": "Maximilian Schwarzmüller",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/AsifIqbal95/typescript/issues"
-  },
-  "homepage": "https://github.com/AsifIqbal95/typescript#readme",
   "devDependencies": {
-    "lite-server": "^2.6.1"
+    "lite-server": "^2.5.4"
   }
 }
